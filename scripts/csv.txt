@@ -1,0 +1,55 @@
+botnet|['botnet']
+keylogger|['keylogger']
+cross-site scripting (XSS)|['xss', 'cross-site']
+eavesdropping|['eavesdropping']
+ip spoofing|['ip']
+phishing spoofing|['spear', 'whaling', 'clone phishing', 'link spoofing', 'website spoofing']
+sql injection attack|['sql', 'injection', 'unsanitized input', 'blind', 'out-of-band']
+malware|['malware', 'ransomware']
+denial of service (DoS)|['dos', 'ddos', 'pdos']
+Session Hijacking and Man-in-the-Middle Attacks|['Session Hijacking', 'man-in-the-middle']
+crediental harvesting|['crediental']
+botnet|['botnet']
+keylogger|['keylogger']
+cross-site scripting (XSS)|['xss', 'cross-site']
+eavesdropping|['eavesdropping']
+ip spoofing|['ip']
+phishing spoofing|['spear', 'whaling', 'clone phishing', 'link spoofing', 'website spoofing']
+sql injection attack|['sql', 'injection', 'unsanitized input', 'blind', 'out-of-band']
+malware|['malware', 'ransomware']
+denial of service (DoS)|['dos', 'ddos', 'pdos']
+Session Hijacking and Man-in-the-Middle Attacks|['Session Hijacking', 'man-in-the-middle']
+crediental harvesting|['crediental']
+botnet|['botnet']
+keylogger|['keylogger']
+cross-site scripting (XSS)|['xss', 'cross-site']
+eavesdropping|['eavesdropping']
+ip spoofing|['ip']
+phishing spoofing|['spear', 'whaling', 'clone phishing', 'link spoofing', 'website spoofing']
+sql injection attack|['sql', 'injection', 'unsanitized input', 'blind', 'out-of-band']
+malware|['malware', 'ransomware']
+denial of service (DoS)|['dos', 'ddos', 'pdos']
+Session Hijacking and Man-in-the-Middle Attacks|['Session Hijacking', 'man-in-the-middle']
+crediental harvesting|['crediental']
+botnet|botnet
+keylogger|keylogger
+cross-site scripting (XSS)|xsscross-site
+eavesdropping|eavesdropping
+ip spoofing|ip
+phishing spoofing|spearwhalingclone phishinglink spoofingwebsite spoofing
+sql injection attack|sqlinjectionunsanitized inputblindout-of-band
+malware|malwareransomware
+denial of service (DoS)|dosddospdos
+Session Hijacking and Man-in-the-Middle Attacks|Session Hijackingman-in-the-middle
+crediental harvesting|crediental
+botnet|botnet
+keylogger|keylogger
+cross-site scripting (XSS)|xss cross-site
+eavesdropping|eavesdropping
+ip spoofing|ip
+phishing spoofing|spear whaling clone phishing link spoofing website spoofing
+sql injection attack|sql injection unsanitized input blind out-of-band
+malware|malware ransomware
+denial of service (DoS)|dos ddos pdos
+Session Hijacking and Man-in-the-Middle Attacks|Session Hijacking man-in-the-middle
+crediental harvesting|crediental
